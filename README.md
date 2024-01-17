@@ -1,38 +1,49 @@
 # Inventor API Project
 
-This repository houses an Inventor API project designed to interact with Autodesk Inventor software. The project aims to leverage the Inventor API to enhance functionalities, streamline workflows, or provide custom solutions within the Autodesk Inventor environment.
-
+This repository hosts an Inventor API project tailored to interact with Autodesk Inventor software. The primary objective of this project is to harness the capabilities of the Inventor API to enhance functionalities, streamline workflows, and offer custom solutions within the Autodesk Inventor environment.
 
 ## Overview
 
-The Inventor API project is a collection of tools, scripts, or customizations developed using the Autodesk Inventor API. Autodesk Inventor API allows for programmatic access to various features and functionalities within the Inventor software, enabling users to automate tasks, extend capabilities, and create tailored solutions.
+The Inventor API project comprises a suite of tools, scripts, and customizations developed using the Autodesk Inventor API. The Autodesk Inventor API provides programmatic access to various features and functionalities within the software, empowering users to automate tasks, extend capabilities, and create bespoke solutions.
 
 ## Getting Started
 
-To get started with the Inventor API project, follow these general steps:
+To kickstart your journey with the Inventor API project, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    https://github.com/RamCCTech/InventorAPI.git
+    git clone https://github.com/RamCCTech/InventorAPI.git
     ```
 
 2. **Explore the Contents:**
-    - Familiarize yourself with the project structure and available resources.
+    - Acquaint yourself with the project structure and available resources.
 
 3. **Customize and Extend:**
-    - Modify or extend the provided tools as needed for your specific use cases.
+    - Tailor or expand the provided tools to suit your specific use cases.
 
 ## Features
 
 - **Custom Tools:**
-    - Explore a variety of custom tools developed using the Inventor API.
+    - Delve into a diverse array of custom tools developed using the Inventor API.
 
 - **Automation:**
     - Automate repetitive tasks or workflows within Autodesk Inventor.
 
 - **Integration:**
-    - Integrate additional features or functionalities seamlessly into Inventor.
+    - Seamlessly integrate additional features or functionalities into Inventor.
+
+## Usage - Part Removal
+
+One noteworthy feature of this project is the ability to remove a selected part from the assembly with a simple button click. Follow these steps to utilize this functionality:
+
+1. Open your assembly in Autodesk Inventor.
+
+2. Locate and click on the designated "Remove Part" button within the custom toolbar or menu.
+
+3. Select the part you wish to remove within the assembly.
+
+4. Witness the seamless removal of the selected part from the assembly.
 
 ## Screenshots
-![Screenshot (43)](https://github.com/RamCCTech/InventorAPI/assets/149322355/39984ca7-e754-4a72-9b2c-ce458c6daf20)
-![Screenshot (42)](https://github.com/RamCCTech/InventorAPI/assets/149322355/98154dd1-56d0-4f4d-bb27-33fa6007adcf)
+![Screenshot 1](https://github.com/RamCCTech/InventorAPI/assets/149322355/39984ca7-e754-4a72-9b2c-ce458c6daf20)
+![Screenshot 2](https://github.com/RamCCTech/InventorAPI/assets/149322355/98154dd1-56d0-4f4d-bb27-33fa6007adcf)
